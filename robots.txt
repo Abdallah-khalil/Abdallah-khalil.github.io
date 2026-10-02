@@ -1,0 +1,3 @@
+User-agent: *
+# Prefix match: covers /moderation.html and a clean /moderation URL.
+Disallow: /moderation
